@@ -1,0 +1,12 @@
+This program is an  Multiple-Priority Queue simulator with C#.
+It is not the best way, it just shows how the algorithm works.
+It was an Operating System lecture project.
+
+Threads & Queues creating to the limit of user needs.
+Threads & Queues creating dynamically.
+After Queues creation, threads are creating and enqueueing to equivalent queue.
+Always check the highest priority level queue.If highest priority level queue have thread start from there. 
+Loop until the highest priority level queue count equals to zero and then go lower priority level queue.
+When all queues empty, the program stop simulation timer and notify user about program finished. 
+
+.NET Framework 4 required.
