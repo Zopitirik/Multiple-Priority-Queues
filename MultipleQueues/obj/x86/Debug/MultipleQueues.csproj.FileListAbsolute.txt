@@ -1,0 +1,11 @@
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\Denemeler\MultipleQueues\MultipleQueues\bin\Debug\MultipleQueues.exe
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\Denemeler\MultipleQueues\MultipleQueues\bin\Debug\MultipleQueues.pdb
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\Denemeler\MultipleQueues\MultipleQueues\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\Denemeler\MultipleQueues\MultipleQueues\obj\x86\Debug\MultipleQueues.Form1.resources
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\Denemeler\MultipleQueues\MultipleQueues\obj\x86\Debug\MultipleQueues.Properties.Resources.resources
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\Denemeler\MultipleQueues\MultipleQueues\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\Denemeler\MultipleQueues\MultipleQueues\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\Denemeler\MultipleQueues\MultipleQueues\obj\x86\Debug\MultipleQueues.exe
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\Denemeler\MultipleQueues\MultipleQueues\obj\x86\Debug\MultipleQueues.pdb
+C:\Users\Hikmet\Github\Multiple-Priority-Queues\MultipleQueues\obj\x86\Debug\MultipleQueues.exe
+C:\Users\Hikmet\Github\Multiple-Priority-Queues\MultipleQueues\obj\x86\Debug\MultipleQueues.pdb
