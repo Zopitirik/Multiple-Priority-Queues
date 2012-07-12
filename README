@@ -1,6 +1,6 @@
 This program is an  Multiple-Priority Queue simulator with C#.
 It is not the best way, it just shows how the algorithm works.
-It was an Operating System lecture project.
+It was an Operating System course project.
 
 Threads & Queues creating to the limit of user needs.
 Threads & Queues creating dynamically.
